@@ -2,7 +2,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every day at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -26,8 +25,9 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p output
+          chmod -R 777 output
           mv dist/snake.svg output/github-contribution-grid-snake.svg
+          git checkout main
           git add output/github-contribution-grid-snake.svg
           git commit -m "Updated Snake Animation" || echo "No changes to commit"
           git push
-
