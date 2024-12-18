@@ -1,10 +1,22 @@
-# Hi there! 👋 I'm [Tharindu Dulanka](https://github.com/luci1927)
+<div> 
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=luci1927&color=brightgreen" alt="Profile views" />
+  </p>
+  <h1><strong>
+    Hi there! 👋 I'm <a href="https://github.com/luci1927" target="blank">Tharindu Dulanka</a> 
+  </strong>
+    <p>
+    🙌💵 - 🇱🇰
+  </p>
+  </h1>
+  
+</div>
 
-🚀 **Fullstack Training Software Engineer** passionate about creating user-friendly, innovative, and impactful applications. Currently honing my skills and contributing at [Eversoft IT Solutions](https://github.com/eversoft-lk).
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luci1927&color=brightgreen" alt="Profile views" />
-</p>
+ <h4 align="center">🚀 <strong>Fullstack Software Engineer</strong> (trainee) passionate about creating user-friendly, innovative, and impactful applications. Currently honing my skills and contributing at  <a href="https://github.com/eversoft-lk" target="blank">Eversoft IT Solutions</a>
+ </h4>
+
+
 
 ---
 
@@ -17,7 +29,7 @@
 - 💬 **Ask Me About**: Web Development, JavaScript Ecosystem, or anything tech-related!
 - 📫 **How to Reach Me**: [tharindu.dulanka@eversoft.lk](mailto:tharindu.dulanka@eversoft.lk)
 - 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I'm a coffee enthusiast who codes better after a shot of espresso! ☕
+- ⚡ **Fun Fact**: No fun facts to show!
 
 ---
 
@@ -77,8 +89,4 @@
 
 ---
 
-## 🐍 **Contribution Snake**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/luci1927/luci1927/main/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
