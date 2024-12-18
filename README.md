@@ -79,5 +79,6 @@
 
 ## 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://github.com/luci1927/luci1927/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/luci1927/luci1927/main/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+
