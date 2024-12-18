@@ -26,6 +26,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p output
           chmod -R 777 output
+          chmod -R 777 dist
           mv dist/snake.svg output/github-contribution-grid-snake.svg
           git checkout main
           git add output/github-contribution-grid-snake.svg
