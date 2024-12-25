@@ -74,7 +74,7 @@
 
 ---
 
-## 📈 **GitHub Stats**
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luci1927&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -82,7 +82,13 @@
 
 ---
 
-## 🏆 **Trophies**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luci1927&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="luci1927" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luci1927&theme=radical&margin-w=15" alt="Trophies" />
 </p>
