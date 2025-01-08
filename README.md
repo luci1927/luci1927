@@ -6,7 +6,7 @@
     Hi there! 👋 I'm <a href="https://github.com/luci1927" target="blank">Tharindu Dulanka</a> 
   </strong>
     <p>
-    🙌💵 - 🇱🇰
+    🙌 - 🇱🇰
   </p>
   </h1>
   
