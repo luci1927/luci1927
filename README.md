@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=luci1927&color=brightgreen" alt="Profile views" />
   </p>
   <h1><strong>
-    Hi there! 👋 I'm <a href="https://github.com/luci1927" target="blank">Tharindu Dulanka de Silva</a> 
+    Hi there! 👋 I'm <a href="https://github.com/luci1927" target="blank">Tharindu Dulanka</a> 
   </strong>
     <p>
     🙌💲 - 🇱🇰
