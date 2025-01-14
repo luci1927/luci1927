@@ -13,7 +13,7 @@
 </div>
 
 
- <h4 align="center">🚀 <strong>Fullstack Software Enginer</strong> (trainee) passionate about creating user-friendly, innovative, and impactful applications. Currently honing my skills and contributing at  <a href="https://github.com/eversoft-lk" target="blank">Eversoft IT Solutions</a>
+ <h4 align="center">🚀 <strong>Fullstack Software Engineer</strong> (trainee) passionate about creating user-friendly, innovative, and impactful applications. Currently honing my skills and contributing at  <a href="https://github.com/eversoft-lk" target="blank">Eversoft IT Solutions</a>
  </h4>
 
 
