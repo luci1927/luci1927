@@ -75,15 +75,6 @@
 ---
 
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=luci1927&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luci1927&show_icons=true&theme=vue-dark&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
 
 
 
