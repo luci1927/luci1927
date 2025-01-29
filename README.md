@@ -28,7 +28,6 @@
 - 🤔 **Looking for Help With**: Scaling applications and optimizing performance.
 - 💬 **Ask Me About**: Web Development, JavaScript Ecosystem, or anything tech-related!
 - 📫 **How to Reach Me**: [tharindu.dulanka@eversoft.lk](mailto:tharindu.dulanka@eversoft.lk) or [WhatsApp](https://wa.me/94774754156)
-- 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: No fun facts to show!
 
 ---
